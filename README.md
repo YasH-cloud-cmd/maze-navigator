@@ -3,7 +3,15 @@
 Autonomous wall-following robot that navigates a maze using only
 LiDAR data, built with ROS2 Jazzy + Gazebo Harmonic.
 
-![demo](demo.gif)
+<img width="498" height="298" alt="gazebo2-ezgif com-cut" src="https://github.com/user-attachments/assets/29303f25-37da-4654-b34e-8f4ba07408dd" />
+
+<img width="498" height="298" alt="terminaloutput-ezgif com-cut" src="https://github.com/user-attachments/assets/c511a905-92d5-4703-934f-c8c9815f0eee" />
+
+<img width="498" height="298" alt="rviz-ezgif com-cut" src="https://github.com/user-attachments/assets/45382607-646d-4be7-bd18-7279323de880" />
+
+<img width="498" height="298" alt="cmd-vel-ezgif com-cut" src="https://github.com/user-attachments/assets/9100136e-6280-40c2-b866-8571c7bb022a" />
+
+
 
 ## Overview
 
@@ -82,5 +90,4 @@ after every `colcon build`.
 
 ## Author
 
-Your Name
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+[LinkedIn]www.linkedin.com/in/yashxpcbs
